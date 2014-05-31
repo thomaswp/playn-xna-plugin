@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>XNA Plugin</name>
+      <prefix>xna</prefix>
+      <artifactId>xna-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
